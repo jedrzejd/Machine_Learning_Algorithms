@@ -8,4 +8,4 @@
 
 - [Krzywe Uczenia](https://github.com/jedrzejd/Machine_Learning_Algorithms/blob/main/Krzywe%20uczenia.ipynb)
 
-- [Regularyzowane modele liniowe](https://github.com/jedrzejd/Machine_Learning_Algorithms/blob/main/Regularyzowane-modele-liniowe.ipynb)
+- [Regularyzowane modele liniowe](https://github.com/jedrzejd/Machine_Learning_Algorithms/blob/main/Regularyzowane%20modele%20liniowe.ipynb)
